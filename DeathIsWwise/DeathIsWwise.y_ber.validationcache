@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="D:\DeathIsWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3020075797" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Attenuations\Default Work Unit.wwu" DateLow="3021178727" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Audio Devices\Default Work Unit.wwu" DateLow="3019950456" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="3021073439" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Conversion Settings\Default Work Unit.wwu" DateLow="3021018289" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="3218106285" DateHigh="30582893"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\DeathIsWwise.wproj" DateLow="3019895314" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3021113542" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Effects\Default Work Unit.wwu" DateLow="3020652319" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Effects\Factory Effects.wwu" DateLow="3220275962" DateHigh="30582893"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Events\Default Work Unit.wwu" DateLow="3020035851" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Game Parameters\Default Work Unit.wwu" DateLow="3020707475" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3021148835" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3019995588" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="3020872905" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Modulators\Default Work Unit.wwu" DateLow="3021228851" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Presets\Default Work Unit.wwu" DateLow="3020792692" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Queries\Default Work Unit.wwu" DateLow="3020612227" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Queries\Factory Queries.wwu" DateLow="3217815510" DateHigh="30582893"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\SoundBanks\Default Work Unit.wwu" DateLow="3020742557" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3020336782" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\States\Default Work Unit.wwu" DateLow="3020296636" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Switches\Default Work Unit.wwu" DateLow="3020256270" DateHigh="30582897"/>
+	<ValidationCacheItem File="D:\DeathIsWwise\Triggers\Default Work Unit.wwu" DateLow="3020832842" DateHigh="30582897"/>
+</ValidationCache>
