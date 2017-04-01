@@ -1,0 +1,19 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	805002222	Monster_States			\Default Work Unit\Monster_States	
+
+State	ID	Name	State Group			Notes
+	180661997	attack	Monster_States			
+	685805961	seek	Monster_States			
+	748895195	None	Monster_States			
+	1641806523	attacking	Monster_States			
+	1874288895	idle	Monster_States			
+	3011204530	move	Monster_States			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4179668880	Master_Volume			\Default Work Unit\Master_Volume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	1117531639	Amb			\Default Work Unit\Master Audio Bus\Amb	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
