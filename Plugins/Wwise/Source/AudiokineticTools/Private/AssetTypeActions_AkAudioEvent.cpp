@@ -10,6 +10,8 @@
 #include "AssetTypeActions_AkAudioEvent.h"
 #include "AkAudioDevice.h"
 #include "Toolkits/SimpleAssetEditor.h"
+#include "MultiBox/MultiBoxBuilder.h"
+#include "Misc/ScopeLock.h"
 
 #define LOCTEXT_NAMESPACE "AssetTypeActions"
 

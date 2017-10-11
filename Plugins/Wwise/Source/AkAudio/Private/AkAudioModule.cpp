@@ -2,6 +2,7 @@
 
 #include "AkAudioDevice.h"
 #include "AkAudioModule.h"
+#include "Misc/CoreDelegates.h"
 
 IMPLEMENT_MODULE( FAkAudioModule, AkAudio )
 

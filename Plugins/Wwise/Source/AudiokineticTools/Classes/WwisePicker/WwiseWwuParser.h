@@ -8,6 +8,8 @@
 #include "WwisePicker/WwiseTreeItem.h"
 #include "XmlFile.h"
 
+typedef TTextFilter< const FString& > StringFilter;
+
 class FWwiseWwuParser
 {
 public:

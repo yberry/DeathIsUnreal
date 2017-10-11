@@ -42,98 +42,98 @@ Effect plug-ins	ID	Name	Type				Notes
 	1858266461	MonsterReverb	Wwise RoomVerb			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	1796267	ClacMonstre_Idle11	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle11_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle11		13340
-	12105516	ClacMonstre_Idle04	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle04		14848
-	33668173	ClacMonstre_Idle08	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle08		15024
-	37994864	Bulles	D:\DISWwise\.cache\Windows\SFX\Bulles_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Bulles		5410604
-	38988171	machine2	D:\DISWwise\.cache\Windows\SFX\machine2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine2		1920548
-	43874387	ClacMonstre_Idle12	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle12_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle12		21056
-	86200336	ClacMonstre_Idle09	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle09		20156
-	98288222	ClacMonstre_Idle14	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle14_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle14		20828
-	117524056	AmbLow7	D:\DISWwise\.cache\Windows\SFX\AmbLow7_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow7		3528064
-	122858343	Door_CloseSqueak_B	D:\DISWwise\.cache\Windows\SFX\Door_CloseSqueak_B_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_CloseSqueak_B		82140
-	129475503	ClacMonstre_Idle03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle03		22896
-	130699465	DoorSqueak2	D:\DISWwise\.cache\Windows\SFX\DoorSqueak2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak2		176464
-	139125286	ClacMonstre_Seek03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek03		104380
-	142975268	machine1	D:\DISWwise\.cache\Windows\SFX\machine1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine1		2149448
-	171257235	cloche8	D:\DISWwise\.cache\Windows\SFX\cloche8_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche8		1058464
-	176507355	Death3	D:\DISWwise\.cache\Windows\SFX\Metal.s5_03_E09A8E11.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death3		1055696
-	181276685	Death1	D:\DISWwise\.cache\Windows\SFX\ActionDeathEnd_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death1		1302248
-	190708434	ClacMonstre_Attack01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Attack01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attack\ClacMonstre_Attack01		300792
-	202024251	Door_OpenSqueak_1	D:\DISWwise\.cache\Windows\SFX\Door_OpenSqueak_1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_OpenSqueak\Door_OpenSqueak_1		187490
-	236654998	AmbLow8	D:\DISWwise\.cache\Windows\SFX\AmbLow8_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow8		3528064
-	242638858	Wind_Tuyaux01	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux01		1278784
-	253165534	cloche6	D:\DISWwise\.cache\Windows\SFX\cloche6_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche6		843480
-	276107287	Wind_Tuyaux02	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux02		832072
-	285237926	Amb2	D:\DISWwise\.cache\Windows\SFX\Amb2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb2		2646064
-	289921134	AmbLow5	D:\DISWwise\.cache\Windows\SFX\AmbLow5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow5		3528064
-	290562202	cloche4	D:\DISWwise\.cache\Windows\SFX\cloche4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche4		848992
-	298696665	ClacMonstre_Move02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move02		167592
-	330967322	Start	D:\DISWwise\.cache\Windows\SFX\Start_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Start		2838512
-	335844977	Door_CloseSqueak_A	D:\DISWwise\.cache\Windows\SFX\Door_CloseSqueak_A_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_CloseSqueak_A		54054
-	347268334	AmbLow3	D:\DISWwise\.cache\Windows\SFX\AmbLow3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow3		3528064
-	350040112	Wind_Tuyaux05	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux05		909548
-	350082883	ClacMonstre_Move03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move03		247612
-	380980611	ClacMonstre_Idle06	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle06		13592
-	389621878	LampOff01	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff01		26784
-	391437489	AmbLow2	D:\DISWwise\.cache\Windows\SFX\AmbLow2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow2		3528064
-	404652361	Death2	D:\DISWwise\.cache\Windows\SFX\Metal.s4_05_0EC84DEA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death2		722472
-	415457122	LampOn01	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn01		105904
-	430590362	machine3	D:\DISWwise\.cache\Windows\SFX\machine3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine3		2116864
-	432113528	Menu_Clic	D:\DISWwise\.cache\Windows\SFX\Menu_Clic_8FD5B35A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Clic		43252
-	432954458	ClacMonstre_Idle07	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle07		18112
-	445519475	LampOff03	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff03		26784
-	450072806	cloche1	D:\DISWwise\.cache\Windows\SFX\cloche1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche1		882064
-	456498214	attacknoise	D:\DISWwise\.cache\Windows\SFX\attacknoise_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Attacked\attacknoise		1396116
-	488600339	attacknoise_loop	D:\DISWwise\.cache\Windows\SFX\attacknoise-LOOP_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Attacked\attacknoise_loop		1200412
-	514725721	LampOff02	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff02		26784
-	522217848	Amb4	D:\DISWwise\.cache\Windows\SFX\Amb4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb4		2646064
-	543534211	DoorClose	D:\DISWwise\.cache\Windows\SFX\DoorClose_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\DoorClose		187006
-	552121477	move1	D:\DISWwise\.cache\Windows\SFX\move1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Move\move1		46548
-	552240209	ClacMonstre_Seek04	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek04		160056
-	556216135	Amb7	D:\DISWwise\.cache\Windows\SFX\Amb7_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb7		2646064
-	581550575	cloche5	D:\DISWwise\.cache\Windows\SFX\cloche5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche5		847612
-	599608427	cloche9	D:\DISWwise\.cache\Windows\SFX\cloche9_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche9		1161240
-	609554894	Music DiS	D:\DISWwise\.cache\Windows\SFX\Music DiS_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music DiS		19922888
-	611647154	LampOn02	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn02		105904
-	613083818	AmbLow9	D:\DISWwise\.cache\Windows\SFX\AmbLow9_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow9		3528064
-	621643441	Amb8	D:\DISWwise\.cache\Windows\SFX\Amb8_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb8		2646064
-	623382135	ClacMonstre_Idle01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle01		12840
-	643594911	move2	D:\DISWwise\.cache\Windows\SFX\move2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Move\move2		22116
-	680806267	LampOn03	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn03		105904
-	684948027	AmbLow1	D:\DISWwise\.cache\Windows\SFX\AmbLow1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow1		3528064
-	700933665	DoorSqueak1	D:\DISWwise\.cache\Windows\SFX\DoorSqueak1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak1		176464
-	704338273	CriMonstre02	D:\DISWwise\.cache\Windows\SFX\CriMonstre02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attaking\Attacking\CriMonstre02		1206936
-	718327252	AmbLow6	D:\DISWwise\.cache\Windows\SFX\AmbLow6_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow6		3528064
-	718712776	ClacMonstre_Seek01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek01		220560
-	721883443	Wind_Tuyaux03	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux03		849208
-	724319294	AmbLow4	D:\DISWwise\.cache\Windows\SFX\AmbLow4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow4		3528064
-	740156813	Door_latch_3	D:\DISWwise\.cache\Windows\SFX\Door_latch_3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_3		40694
-	764110558	ClacMonstre_Attack02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Attack02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attack\ClacMonstre_Attack02		142156
-	768297130	cloche7	D:\DISWwise\.cache\Windows\SFX\cloche7_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche7		1058464
-	769515044	Radar_Wave	D:\DISWwise\.cache\Windows\SFX\Radar_Wave_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radar_Wave		176464
-	770092917	DoorSqueak3	D:\DISWwise\.cache\Windows\SFX\DoorSqueak3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak3		176464
-	791450253	ClacMonstre_Idle15	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle15_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle15		19964
-	794221497	Amb1	D:\DISWwise\.cache\Windows\SFX\Amb1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb1		2646064
-	796719234	Door_latch_2	D:\DISWwise\.cache\Windows\SFX\Door_latch_2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_2		44202
-	800207836	Find	D:\DISWwise\.cache\Windows\SFX\Find_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Find		317584
-	809563980	Amb6	D:\DISWwise\.cache\Windows\SFX\Amb6_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb6		2646064
-	819768824	machine5	D:\DISWwise\.cache\Windows\SFX\machine5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine5		2822464
-	821285074	cloche2	D:\DISWwise\.cache\Windows\SFX\cloche2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche2		848992
-	831758960	Wind_Tuyaux04	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux04		840996
-	845277108	Wind_Howl	D:\DISWwise\.cache\Windows\SFX\Wind_Howl_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Wind_Howl		6132996
-	848768176	ClacMonstre_Seek02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek02		183948
-	879165704	ClacMonstre_Idle13	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle13_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle13		17784
-	890948085	ClacMonstre_Idle05	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle05		17756
-	894451604	Drips	D:\DISWwise\.cache\Windows\SFX\Drips_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Drips		7408864
-	900396056	ClacMonstre_Idle02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle02		14192
-	910580893	cloche3	D:\DISWwise\.cache\Windows\SFX\cloche3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche3		837964
-	987073916	ClacMonstre_Idle10	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle10_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle10		29444
-	996883605	Radar_Bip	D:\DISWwise\.cache\Windows\SFX\Radar_Bip_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radar_Beep\Radar_Bip		176464
-	1018031233	Door_latch_1	D:\DISWwise\.cache\Windows\SFX\Door_latch_1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_1		60702
-	1024033393	Amb3	D:\DISWwise\.cache\Windows\SFX\Amb3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb3		2646064
-	1024160717	Amb5	D:\DISWwise\.cache\Windows\SFX\Amb5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb5		2646064
-	1036780817	machine4	D:\DISWwise\.cache\Windows\SFX\machine4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine4		2822464
-	1052801955	Door_OpenSqueak_2	D:\DISWwise\.cache\Windows\SFX\Door_OpenSqueak_2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_OpenSqueak\Door_OpenSqueak_2		187490
-	1067962411	ClacMonstre_Move01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move01		104576
+	1796267	ClacMonstre_Idle11	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle11_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle11		13340
+	12105516	ClacMonstre_Idle04	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle04_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle04		14848
+	33668173	ClacMonstre_Idle08	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle08_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle08		15024
+	37994864	Bulles	D:\DISWwise\.cache\Windows\SFX\Bulles_9452F465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Bulles		5410604
+	38988171	machine2	D:\DISWwise\.cache\Windows\SFX\machine2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine2		1920548
+	43874387	ClacMonstre_Idle12	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle12_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle12		21056
+	86200336	ClacMonstre_Idle09	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle09_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle09		20156
+	98288222	ClacMonstre_Idle14	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle14_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle14		20828
+	117524056	AmbLow7	D:\DISWwise\.cache\Windows\SFX\AmbLow7_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow7		3528064
+	122858343	Door_CloseSqueak_B	D:\DISWwise\.cache\Windows\SFX\Door_CloseSqueak_B_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_CloseSqueak_B		82140
+	129475503	ClacMonstre_Idle03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle03		22896
+	130699465	DoorSqueak2	D:\DISWwise\.cache\Windows\SFX\DoorSqueak2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak2		176464
+	139125286	ClacMonstre_Seek03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek03		104380
+	142975268	machine1	D:\DISWwise\.cache\Windows\SFX\machine1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine1		2149448
+	171257235	cloche8	D:\DISWwise\.cache\Windows\SFX\cloche8_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche8		1058464
+	176507355	Death3	D:\DISWwise\.cache\Windows\SFX\Metal.s5_03_50159F31.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death3		1055696
+	181276685	Death1	D:\DISWwise\.cache\Windows\SFX\ActionDeathEnd_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death1		1302248
+	190708434	ClacMonstre_Attack01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Attack01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attack\ClacMonstre_Attack01		300792
+	202024251	Door_OpenSqueak_1	D:\DISWwise\.cache\Windows\SFX\Door_OpenSqueak_1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_OpenSqueak\Door_OpenSqueak_1		187490
+	236654998	AmbLow8	D:\DISWwise\.cache\Windows\SFX\AmbLow8_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow8		3528064
+	242638858	Wind_Tuyaux01	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux01		1278784
+	253165534	cloche6	D:\DISWwise\.cache\Windows\SFX\cloche6_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche6		843480
+	276107287	Wind_Tuyaux02	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux02		832072
+	285237926	Amb2	D:\DISWwise\.cache\Windows\SFX\Amb2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb2		2646064
+	289921134	AmbLow5	D:\DISWwise\.cache\Windows\SFX\AmbLow5_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow5		3528064
+	290562202	cloche4	D:\DISWwise\.cache\Windows\SFX\cloche4_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche4		848992
+	298696665	ClacMonstre_Move02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move02		167592
+	330967322	Start	D:\DISWwise\.cache\Windows\SFX\Start_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Start		2838512
+	335844977	Door_CloseSqueak_A	D:\DISWwise\.cache\Windows\SFX\Door_CloseSqueak_A_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_CloseSqueak_A		54054
+	347268334	AmbLow3	D:\DISWwise\.cache\Windows\SFX\AmbLow3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow3		3528064
+	350040112	Wind_Tuyaux05	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux05_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux05		909548
+	350082883	ClacMonstre_Move03	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move03		247612
+	380980611	ClacMonstre_Idle06	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle06_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle06		13592
+	389621878	LampOff01	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff01		26784
+	391437489	AmbLow2	D:\DISWwise\.cache\Windows\SFX\AmbLow2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow2		3528064
+	404652361	Death2	D:\DISWwise\.cache\Windows\SFX\Metal.s4_05_C465E12A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Death_Stinger\Death2		722472
+	415457122	LampOn01	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn01		105904
+	430590362	machine3	D:\DISWwise\.cache\Windows\SFX\machine3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine3		2116864
+	432113528	Menu_Clic	D:\DISWwise\.cache\Windows\SFX\Menu_Clic_7F34849A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Clic		43252
+	432954458	ClacMonstre_Idle07	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle07_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle07		18112
+	445519475	LampOff03	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff03		26784
+	450072806	cloche1	D:\DISWwise\.cache\Windows\SFX\cloche1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche1		882064
+	456498214	attacknoise	D:\DISWwise\.cache\Windows\SFX\attacknoise_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Attacked\attacknoise		1396116
+	488600339	attacknoise_loop	D:\DISWwise\.cache\Windows\SFX\attacknoise-LOOP_9452F465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Attacked\attacknoise_loop		1200412
+	514725721	LampOff02	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOff02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_Off\LampOff02		26784
+	522217848	Amb4	D:\DISWwise\.cache\Windows\SFX\Amb4_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb4		2646064
+	543534211	DoorClose	D:\DISWwise\.cache\Windows\SFX\DoorClose_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\DoorClose		187006
+	552121477	move1	D:\DISWwise\.cache\Windows\SFX\move1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Move\move1		46548
+	552240209	ClacMonstre_Seek04	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek04_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek04		160056
+	556216135	Amb7	D:\DISWwise\.cache\Windows\SFX\Amb7_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb7		2646064
+	581550575	cloche5	D:\DISWwise\.cache\Windows\SFX\cloche5_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche5		847612
+	599608427	cloche9	D:\DISWwise\.cache\Windows\SFX\cloche9_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche9		1161240
+	609554894	Music DiS	D:\DISWwise\.cache\Windows\SFX\Music DiS_9452F465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music DiS		19922888
+	611647154	LampOn02	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn02		105904
+	613083818	AmbLow9	D:\DISWwise\.cache\Windows\SFX\AmbLow9_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow9		3528064
+	621643441	Amb8	D:\DISWwise\.cache\Windows\SFX\Amb8_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb8		2646064
+	623382135	ClacMonstre_Idle01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle01		12840
+	643594911	move2	D:\DISWwise\.cache\Windows\SFX\move2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Move\move2		22116
+	680806267	LampOn03	D:\DISWwise\.cache\Windows\SFX\Clic Lampe\LampOn03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lamp_On\LampOn03		105904
+	684948027	AmbLow1	D:\DISWwise\.cache\Windows\SFX\AmbLow1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow1		3528064
+	700933665	DoorSqueak1	D:\DISWwise\.cache\Windows\SFX\DoorSqueak1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak1		176464
+	704338273	CriMonstre02	D:\DISWwise\.cache\Windows\SFX\CriMonstre02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attaking\Attacking\CriMonstre02		1206936
+	718327252	AmbLow6	D:\DISWwise\.cache\Windows\SFX\AmbLow6_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow6		3528064
+	718712776	ClacMonstre_Seek01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek01		220560
+	721883443	Wind_Tuyaux03	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux03_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux03		849208
+	724319294	AmbLow4	D:\DISWwise\.cache\Windows\SFX\AmbLow4_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\AmbLow\AmbLow4		3528064
+	740156813	Door_latch_3	D:\DISWwise\.cache\Windows\SFX\Door_latch_3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_3		40694
+	764110558	ClacMonstre_Attack02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Attack02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Attack\ClacMonstre_Attack02		142156
+	768297130	cloche7	D:\DISWwise\.cache\Windows\SFX\cloche7_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche7		1058464
+	769515044	Radar_Wave	D:\DISWwise\.cache\Windows\SFX\Radar_Wave_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radar_Wave		176464
+	770092917	DoorSqueak3	D:\DISWwise\.cache\Windows\SFX\DoorSqueak3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Squeak\DoorSqueak3		176464
+	791450253	ClacMonstre_Idle15	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle15_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle15		19964
+	794221497	Amb1	D:\DISWwise\.cache\Windows\SFX\Amb1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb1		2646064
+	796719234	Door_latch_2	D:\DISWwise\.cache\Windows\SFX\Door_latch_2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_2		44202
+	800207836	Find	D:\DISWwise\.cache\Windows\SFX\Find_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Find		317584
+	809563980	Amb6	D:\DISWwise\.cache\Windows\SFX\Amb6_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb6		2646064
+	819768824	machine5	D:\DISWwise\.cache\Windows\SFX\machine5_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine5		2822464
+	821285074	cloche2	D:\DISWwise\.cache\Windows\SFX\cloche2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche2		848992
+	831758960	Wind_Tuyaux04	D:\DISWwise\.cache\Windows\SFX\Wind_Tuyaux04_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Pipes\Wind_Tuyaux04		840996
+	845277108	Wind_Howl	D:\DISWwise\.cache\Windows\SFX\Wind_Howl_9452F465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Wind_Howl		6132996
+	848768176	ClacMonstre_Seek02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Seek02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Seek\ClacMonstre_Seek02		183948
+	879165704	ClacMonstre_Idle13	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle13_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle13		17784
+	890948085	ClacMonstre_Idle05	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle05_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle05		17756
+	894451604	Drips	D:\DISWwise\.cache\Windows\SFX\Drips_9452F465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rooms\Rooms\Drips		7408864
+	900396056	ClacMonstre_Idle02	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle02_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle02		14192
+	910580893	cloche3	D:\DISWwise\.cache\Windows\SFX\cloche3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Bell\cloche3		837964
+	987073916	ClacMonstre_Idle10	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Idle10_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Idle\ClacMonstre_Idle10		29444
+	996883605	Radar_Bip	D:\DISWwise\.cache\Windows\SFX\Radar_Bip_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radar_Beep\Radar_Bip		176464
+	1018031233	Door_latch_1	D:\DISWwise\.cache\Windows\SFX\Door_latch_1_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_Latch\Door_latch_1		60702
+	1024033393	Amb3	D:\DISWwise\.cache\Windows\SFX\Amb3_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb3		2646064
+	1024160717	Amb5	D:\DISWwise\.cache\Windows\SFX\Amb5_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Amb\Amb5		2646064
+	1036780817	machine4	D:\DISWwise\.cache\Windows\SFX\machine4_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Amb\Machine\machine4		2822464
+	1052801955	Door_OpenSqueak_2	D:\DISWwise\.cache\Windows\SFX\Door_OpenSqueak_2_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door\Door_OpenSqueak\Door_OpenSqueak_2		187490
+	1067962411	ClacMonstre_Move01	D:\DISWwise\.cache\Windows\SFX\ClacMonstre_Move01_53CEE377.wem		\Actor-Mixer Hierarchy\Default Work Unit\Monster\Move\ClacMonstre_Move01		104576
 

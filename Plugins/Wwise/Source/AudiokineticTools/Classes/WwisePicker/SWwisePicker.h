@@ -10,8 +10,8 @@
 ------------------------------------------------------------------------------------*/
 #include "WwiseTreeItem.h"
 #include "TextFilter.h"
-
-typedef TTextFilter< const FString& > StringFilter;
+#include "Views/ITypedTableView.h"
+#include "Views/STreeView.h"
 #include "WwiseWwuParser.h"
 
 class SWwisePicker : public SCompoundWidget

@@ -10,6 +10,7 @@
 #include "SGenerateSoundBanks.h"
 #include "AkAudioDevice.h"
 #include "Toolkits/SimpleAssetEditor.h"
+#include "MultiBox/MultiBoxBuilder.h"
 
 #define LOCTEXT_NAMESPACE "AssetTypeActions"
 

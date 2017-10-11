@@ -5,6 +5,7 @@
 =============================================================================*/
 #pragma once
 
+#include "Engine/GameEngine.h"
 #include "AkAudioEvent.generated.h"
 
 /*------------------------------------------------------------------------------------
@@ -37,11 +38,6 @@ public:
 	float MaximumDuration;
 
 #if CPP
-	/**
-	 * Called after load process is complete.
-	 */
-	virtual void PostLoad() override;
-
 	/**
 	 * Load the required bank.
 	 *

@@ -3,7 +3,8 @@
 #pragma once
 #include "AkUEFeatures.h"
 
-#if AK_MATINEE_TO_LEVEL_SEQUENCE_MODULE_MODIFICATIONS
+#include "Editor/UnrealEdEngine.h"
+#include "UnrealEdGlobals.h"
 
 class UInterpTrackAkAudioEvent;
 class UInterpTrackAkAudioRTPC;
@@ -47,4 +48,3 @@ public:
 	/** Copies keys from a matinee AkAudioEvent track to a sequencer AkAudioEvent track. */
 	static ECopyInterpAkAudioResult CopyInterpAkAudioEventTrack(const UInterpTrackAkAudioEvent* MatineeAkAudioEventTrack, UMovieSceneAkAudioEventTrack* AkAudioEventTrack);
 };
-#endif // AK_MATINEE_TO_LEVEL_SEQUENCE_MODULE_MODIFICATIONS

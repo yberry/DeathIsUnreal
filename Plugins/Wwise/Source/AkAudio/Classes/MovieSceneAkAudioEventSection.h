@@ -3,7 +3,8 @@
 #pragma once
 
 #include "MovieSceneSection.h"
-
+#include "AkInclude.h"
+#include "AkAudioEvent.h"
 #include "MovieSceneAkAudioEventSection.generated.h"
 
 
@@ -19,30 +20,25 @@ class UMovieSceneAkAudioEventSection : public UMovieSceneSection
 	GENERATED_BODY()
 
 public:
-
 	FString GetEventName() const { return (Event == nullptr) ? EventName : Event->GetName(); }
+	bool GetStopAtSectionEnd() const { return StopAtSectionEnd; }
 
 	void SetEvent(UAkAudioEvent* AudioEvent, const FString& Name) { Event = AudioEvent; EventName = Name; }
 	bool IsValid() const { return Event != nullptr || !EventName.IsEmpty(); }
 
-	bool IsPlaying() const { return PlayingIDs.Num() > 0; }
-
-	void AddPlayingID(AkPlayingID PlayingID) { PlayingIDs.Add(PlayingID); }
-	void ClearPlayingIDs() { PlayingIDs.Empty(); }
-
 	/** returns the minimum and maximum durations for the specified Event or EventName */
-	FFloatRange GetAudioDuration();
+	AKAUDIO_API FFloatRange GetAudioDuration();
 
-	void StopAllPlayingEvents(FAkAudioDevice* AudioDevice);
-	void StopAllPlayingEvents(FAkAudioDevice* AudioDevice, float Time);
+	AKAUDIO_API virtual FMovieSceneEvalTemplatePtr GenerateTemplate() const override;
 
 private:
-
-	TArray<AkPlayingID> PlayingIDs;
-
 	/** The AkAudioEvent represented by this section */
 	UPROPERTY(EditAnywhere, Category = "AkAudioEvent")
-	UAkAudioEvent* Event;
+	UAkAudioEvent* Event = nullptr;
+
+	/** The name of the AkAudioEvent represented by this section */
+	UPROPERTY(EditAnywhere, AdvancedDisplay, Category = "AkAudioEvent")
+	bool StopAtSectionEnd = true;
 
 	/** The name of the AkAudioEvent represented by this section */
 	UPROPERTY(EditAnywhere, AdvancedDisplay, Category = "AkAudioEvent")

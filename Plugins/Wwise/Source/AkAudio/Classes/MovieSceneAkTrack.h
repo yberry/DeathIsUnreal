@@ -55,30 +55,3 @@ protected:
 	UPROPERTY()
 	uint32 bIsAMasterTrack : 1;
 };
-
-/**
-* Instance of a UMovieSceneAkTrack
-*/
-template<typename TrackType>
-class UMovieSceneAkTrackInstance
-	: public IMovieSceneTrackInstance
-{
-public:
-
-	UMovieSceneAkTrackInstance(TrackType& InAkTrack)
-		: AkTrack(&InAkTrack)
-	{}
-
-	/** IMovieSceneTrackInstance interface */
-	virtual void SaveState(const TArray<TWeakObjectPtr<UObject>>& RuntimeObjects, IMovieScenePlayer& Player, FMovieSceneSequenceInstance& SequenceInstance) override {}
-	virtual void RestoreState(const TArray<TWeakObjectPtr<UObject>>& RuntimeObjects, IMovieScenePlayer& Player, FMovieSceneSequenceInstance& SequenceInstance) override {}
-	virtual void RefreshInstance(const TArray<TWeakObjectPtr<UObject>>& RuntimeObjects, IMovieScenePlayer& Player, FMovieSceneSequenceInstance& SequenceInstance) override {}
-	virtual void ClearInstance(IMovieScenePlayer& Player, FMovieSceneSequenceInstance& SequenceInstance) override {}
-	virtual void Update(EMovieSceneUpdateData& UpdateData, const TArray<TWeakObjectPtr<UObject>>& RuntimeObjects, IMovieScenePlayer& Player, FMovieSceneSequenceInstance& SequenceInstance) override
-	{
-		AkTrack->Update(UpdateData, RuntimeObjects, Player, SequenceInstance);
-	}
-
-protected:
-	TrackType* AkTrack;
-};

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
 	<RootPaths>
 		<ProjectRoot>D:\DISWwise\</ProjectRoot>
 		<SourceFilesRoot>D:\DISWwise\.cache\Windows\</SourceFilesRoot>
@@ -42,379 +42,379 @@
 			<IncludedMemoryFiles>
 				<File Id="1796267" Language="SFX">
 					<ShortName>ClacMonstre_Idle11.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle11_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle11_53CEE377.wem</Path>
 				</File>
 				<File Id="12105516" Language="SFX">
 					<ShortName>ClacMonstre_Idle04.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle04_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle04_53CEE377.wem</Path>
 				</File>
 				<File Id="33668173" Language="SFX">
 					<ShortName>ClacMonstre_Idle08.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle08_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle08_53CEE377.wem</Path>
 				</File>
 				<File Id="37994864" Language="SFX">
 					<ShortName>Bulles.wav</ShortName>
-					<Path>SFX\Bulles_4B8CC0C5.wem</Path>
+					<Path>SFX\Bulles_9452F465.wem</Path>
 				</File>
 				<File Id="38988171" Language="SFX">
 					<ShortName>machine2.wav</ShortName>
-					<Path>SFX\machine2_9E69E797.wem</Path>
+					<Path>SFX\machine2_53CEE377.wem</Path>
 				</File>
 				<File Id="43874387" Language="SFX">
 					<ShortName>ClacMonstre_Idle12.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle12_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle12_53CEE377.wem</Path>
 				</File>
 				<File Id="86200336" Language="SFX">
 					<ShortName>ClacMonstre_Idle09.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle09_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle09_53CEE377.wem</Path>
 				</File>
 				<File Id="98288222" Language="SFX">
 					<ShortName>ClacMonstre_Idle14.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle14_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle14_53CEE377.wem</Path>
 				</File>
 				<File Id="117524056" Language="SFX">
 					<ShortName>AmbLow7.wav</ShortName>
-					<Path>SFX\AmbLow7_9E69E797.wem</Path>
+					<Path>SFX\AmbLow7_53CEE377.wem</Path>
 				</File>
 				<File Id="122858343" Language="SFX">
 					<ShortName>Door_CloseSqueak_B.wav</ShortName>
-					<Path>SFX\Door_CloseSqueak_B_9E69E797.wem</Path>
+					<Path>SFX\Door_CloseSqueak_B_53CEE377.wem</Path>
 				</File>
 				<File Id="129475503" Language="SFX">
 					<ShortName>ClacMonstre_Idle03.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle03_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle03_53CEE377.wem</Path>
 				</File>
 				<File Id="130699465" Language="SFX">
 					<ShortName>DoorSqueak2.wav</ShortName>
-					<Path>SFX\DoorSqueak2_9E69E797.wem</Path>
+					<Path>SFX\DoorSqueak2_53CEE377.wem</Path>
 				</File>
 				<File Id="139125286" Language="SFX">
 					<ShortName>ClacMonstre_Seek03.wav</ShortName>
-					<Path>SFX\ClacMonstre_Seek03_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Seek03_53CEE377.wem</Path>
 				</File>
 				<File Id="142975268" Language="SFX">
 					<ShortName>machine1.wav</ShortName>
-					<Path>SFX\machine1_9E69E797.wem</Path>
+					<Path>SFX\machine1_53CEE377.wem</Path>
 				</File>
 				<File Id="171257235" Language="SFX">
 					<ShortName>cloche8.wav</ShortName>
-					<Path>SFX\cloche8_9E69E797.wem</Path>
+					<Path>SFX\cloche8_53CEE377.wem</Path>
 				</File>
 				<File Id="176507355" Language="SFX">
 					<ShortName>Metal.s5_03.wav</ShortName>
-					<Path>SFX\Metal.s5_03_E09A8E11.wem</Path>
+					<Path>SFX\Metal.s5_03_50159F31.wem</Path>
 				</File>
 				<File Id="181276685" Language="SFX">
 					<ShortName>ActionDeathEnd.wav</ShortName>
-					<Path>SFX\ActionDeathEnd_9E69E797.wem</Path>
+					<Path>SFX\ActionDeathEnd_53CEE377.wem</Path>
 				</File>
 				<File Id="190708434" Language="SFX">
 					<ShortName>ClacMonstre_Attack01.wav</ShortName>
-					<Path>SFX\ClacMonstre_Attack01_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Attack01_53CEE377.wem</Path>
 				</File>
 				<File Id="202024251" Language="SFX">
 					<ShortName>Door_OpenSqueak_1.wav</ShortName>
-					<Path>SFX\Door_OpenSqueak_1_9E69E797.wem</Path>
+					<Path>SFX\Door_OpenSqueak_1_53CEE377.wem</Path>
 				</File>
 				<File Id="236654998" Language="SFX">
 					<ShortName>AmbLow8.wav</ShortName>
-					<Path>SFX\AmbLow8_9E69E797.wem</Path>
+					<Path>SFX\AmbLow8_53CEE377.wem</Path>
 				</File>
 				<File Id="242638858" Language="SFX">
 					<ShortName>Wind_Tuyaux01.wav</ShortName>
-					<Path>SFX\Wind_Tuyaux01_9E69E797.wem</Path>
+					<Path>SFX\Wind_Tuyaux01_53CEE377.wem</Path>
 				</File>
 				<File Id="253165534" Language="SFX">
 					<ShortName>cloche6.wav</ShortName>
-					<Path>SFX\cloche6_9E69E797.wem</Path>
+					<Path>SFX\cloche6_53CEE377.wem</Path>
 				</File>
 				<File Id="276107287" Language="SFX">
 					<ShortName>Wind_Tuyaux02.wav</ShortName>
-					<Path>SFX\Wind_Tuyaux02_9E69E797.wem</Path>
+					<Path>SFX\Wind_Tuyaux02_53CEE377.wem</Path>
 				</File>
 				<File Id="285237926" Language="SFX">
 					<ShortName>Amb2.wav</ShortName>
-					<Path>SFX\Amb2_9E69E797.wem</Path>
+					<Path>SFX\Amb2_53CEE377.wem</Path>
 				</File>
 				<File Id="289921134" Language="SFX">
 					<ShortName>AmbLow5.wav</ShortName>
-					<Path>SFX\AmbLow5_9E69E797.wem</Path>
+					<Path>SFX\AmbLow5_53CEE377.wem</Path>
 				</File>
 				<File Id="290562202" Language="SFX">
 					<ShortName>cloche4.wav</ShortName>
-					<Path>SFX\cloche4_9E69E797.wem</Path>
+					<Path>SFX\cloche4_53CEE377.wem</Path>
 				</File>
 				<File Id="298696665" Language="SFX">
 					<ShortName>ClacMonstre_Move02.wav</ShortName>
-					<Path>SFX\ClacMonstre_Move02_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Move02_53CEE377.wem</Path>
 				</File>
 				<File Id="330967322" Language="SFX">
 					<ShortName>Start.wav</ShortName>
-					<Path>SFX\Start_9E69E797.wem</Path>
+					<Path>SFX\Start_53CEE377.wem</Path>
 				</File>
 				<File Id="335844977" Language="SFX">
 					<ShortName>Door_CloseSqueak_A.wav</ShortName>
-					<Path>SFX\Door_CloseSqueak_A_9E69E797.wem</Path>
+					<Path>SFX\Door_CloseSqueak_A_53CEE377.wem</Path>
 				</File>
 				<File Id="347268334" Language="SFX">
 					<ShortName>AmbLow3.wav</ShortName>
-					<Path>SFX\AmbLow3_9E69E797.wem</Path>
+					<Path>SFX\AmbLow3_53CEE377.wem</Path>
 				</File>
 				<File Id="350040112" Language="SFX">
 					<ShortName>Wind_Tuyaux05.wav</ShortName>
-					<Path>SFX\Wind_Tuyaux05_9E69E797.wem</Path>
+					<Path>SFX\Wind_Tuyaux05_53CEE377.wem</Path>
 				</File>
 				<File Id="350082883" Language="SFX">
 					<ShortName>ClacMonstre_Move03.wav</ShortName>
-					<Path>SFX\ClacMonstre_Move03_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Move03_53CEE377.wem</Path>
 				</File>
 				<File Id="380980611" Language="SFX">
 					<ShortName>ClacMonstre_Idle06.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle06_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle06_53CEE377.wem</Path>
 				</File>
 				<File Id="389621878" Language="SFX">
 					<ShortName>Clic Lampe\LampOff01.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOff01_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOff01_53CEE377.wem</Path>
 				</File>
 				<File Id="391437489" Language="SFX">
 					<ShortName>AmbLow2.wav</ShortName>
-					<Path>SFX\AmbLow2_9E69E797.wem</Path>
+					<Path>SFX\AmbLow2_53CEE377.wem</Path>
 				</File>
 				<File Id="404652361" Language="SFX">
 					<ShortName>Metal.s4_05.wav</ShortName>
-					<Path>SFX\Metal.s4_05_0EC84DEA.wem</Path>
+					<Path>SFX\Metal.s4_05_C465E12A.wem</Path>
 				</File>
 				<File Id="415457122" Language="SFX">
 					<ShortName>Clic Lampe\LampOn01.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOn01_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOn01_53CEE377.wem</Path>
 				</File>
 				<File Id="430590362" Language="SFX">
 					<ShortName>machine3.wav</ShortName>
-					<Path>SFX\machine3_9E69E797.wem</Path>
+					<Path>SFX\machine3_53CEE377.wem</Path>
 				</File>
 				<File Id="432113528" Language="SFX">
 					<ShortName>Menu_Clic.wav</ShortName>
-					<Path>SFX\Menu_Clic_8FD5B35A.wem</Path>
+					<Path>SFX\Menu_Clic_7F34849A.wem</Path>
 				</File>
 				<File Id="432954458" Language="SFX">
 					<ShortName>ClacMonstre_Idle07.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle07_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle07_53CEE377.wem</Path>
 				</File>
 				<File Id="445519475" Language="SFX">
 					<ShortName>Clic Lampe\LampOff03.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOff03_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOff03_53CEE377.wem</Path>
 				</File>
 				<File Id="450072806" Language="SFX">
 					<ShortName>cloche1.wav</ShortName>
-					<Path>SFX\cloche1_9E69E797.wem</Path>
+					<Path>SFX\cloche1_53CEE377.wem</Path>
 				</File>
 				<File Id="456498214" Language="SFX">
 					<ShortName>attacknoise.wav</ShortName>
-					<Path>SFX\attacknoise_9E69E797.wem</Path>
+					<Path>SFX\attacknoise_53CEE377.wem</Path>
 				</File>
 				<File Id="488600339" Language="SFX">
 					<ShortName>attacknoise-LOOP.wav</ShortName>
-					<Path>SFX\attacknoise-LOOP_4B8CC0C5.wem</Path>
+					<Path>SFX\attacknoise-LOOP_9452F465.wem</Path>
 				</File>
 				<File Id="514725721" Language="SFX">
 					<ShortName>Clic Lampe\LampOff02.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOff02_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOff02_53CEE377.wem</Path>
 				</File>
 				<File Id="522217848" Language="SFX">
 					<ShortName>Amb4.wav</ShortName>
-					<Path>SFX\Amb4_9E69E797.wem</Path>
+					<Path>SFX\Amb4_53CEE377.wem</Path>
 				</File>
 				<File Id="543534211" Language="SFX">
 					<ShortName>DoorClose.wav</ShortName>
-					<Path>SFX\DoorClose_9E69E797.wem</Path>
+					<Path>SFX\DoorClose_53CEE377.wem</Path>
 				</File>
 				<File Id="552121477" Language="SFX">
 					<ShortName>move1.wav</ShortName>
-					<Path>SFX\move1_9E69E797.wem</Path>
+					<Path>SFX\move1_53CEE377.wem</Path>
 				</File>
 				<File Id="552240209" Language="SFX">
 					<ShortName>ClacMonstre_Seek04.wav</ShortName>
-					<Path>SFX\ClacMonstre_Seek04_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Seek04_53CEE377.wem</Path>
 				</File>
 				<File Id="556216135" Language="SFX">
 					<ShortName>Amb7.wav</ShortName>
-					<Path>SFX\Amb7_9E69E797.wem</Path>
+					<Path>SFX\Amb7_53CEE377.wem</Path>
 				</File>
 				<File Id="581550575" Language="SFX">
 					<ShortName>cloche5.wav</ShortName>
-					<Path>SFX\cloche5_9E69E797.wem</Path>
+					<Path>SFX\cloche5_53CEE377.wem</Path>
 				</File>
 				<File Id="599608427" Language="SFX">
 					<ShortName>cloche9.wav</ShortName>
-					<Path>SFX\cloche9_9E69E797.wem</Path>
+					<Path>SFX\cloche9_53CEE377.wem</Path>
 				</File>
 				<File Id="609554894" Language="SFX">
 					<ShortName>Music DiS.wav</ShortName>
-					<Path>SFX\Music DiS_4B8CC0C5.wem</Path>
+					<Path>SFX\Music DiS_9452F465.wem</Path>
 				</File>
 				<File Id="611647154" Language="SFX">
 					<ShortName>Clic Lampe\LampOn02.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOn02_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOn02_53CEE377.wem</Path>
 				</File>
 				<File Id="613083818" Language="SFX">
 					<ShortName>AmbLow9.wav</ShortName>
-					<Path>SFX\AmbLow9_9E69E797.wem</Path>
+					<Path>SFX\AmbLow9_53CEE377.wem</Path>
 				</File>
 				<File Id="621643441" Language="SFX">
 					<ShortName>Amb8.wav</ShortName>
-					<Path>SFX\Amb8_9E69E797.wem</Path>
+					<Path>SFX\Amb8_53CEE377.wem</Path>
 				</File>
 				<File Id="623382135" Language="SFX">
 					<ShortName>ClacMonstre_Idle01.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle01_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle01_53CEE377.wem</Path>
 				</File>
 				<File Id="643594911" Language="SFX">
 					<ShortName>move2.wav</ShortName>
-					<Path>SFX\move2_9E69E797.wem</Path>
+					<Path>SFX\move2_53CEE377.wem</Path>
 				</File>
 				<File Id="680806267" Language="SFX">
 					<ShortName>Clic Lampe\LampOn03.wav</ShortName>
-					<Path>SFX\Clic Lampe\LampOn03_9E69E797.wem</Path>
+					<Path>SFX\Clic Lampe\LampOn03_53CEE377.wem</Path>
 				</File>
 				<File Id="684948027" Language="SFX">
 					<ShortName>AmbLow1.wav</ShortName>
-					<Path>SFX\AmbLow1_9E69E797.wem</Path>
+					<Path>SFX\AmbLow1_53CEE377.wem</Path>
 				</File>
 				<File Id="700933665" Language="SFX">
 					<ShortName>DoorSqueak1.wav</ShortName>
-					<Path>SFX\DoorSqueak1_9E69E797.wem</Path>
+					<Path>SFX\DoorSqueak1_53CEE377.wem</Path>
 				</File>
 				<File Id="704338273" Language="SFX">
 					<ShortName>CriMonstre02.wav</ShortName>
-					<Path>SFX\CriMonstre02_9E69E797.wem</Path>
+					<Path>SFX\CriMonstre02_53CEE377.wem</Path>
 				</File>
 				<File Id="718327252" Language="SFX">
 					<ShortName>AmbLow6.wav</ShortName>
-					<Path>SFX\AmbLow6_9E69E797.wem</Path>
+					<Path>SFX\AmbLow6_53CEE377.wem</Path>
 				</File>
 				<File Id="718712776" Language="SFX">
 					<ShortName>ClacMonstre_Seek01.wav</ShortName>
-					<Path>SFX\ClacMonstre_Seek01_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Seek01_53CEE377.wem</Path>
 				</File>
 				<File Id="721883443" Language="SFX">
 					<ShortName>Wind_Tuyaux03.wav</ShortName>
-					<Path>SFX\Wind_Tuyaux03_9E69E797.wem</Path>
+					<Path>SFX\Wind_Tuyaux03_53CEE377.wem</Path>
 				</File>
 				<File Id="724319294" Language="SFX">
 					<ShortName>AmbLow4.wav</ShortName>
-					<Path>SFX\AmbLow4_9E69E797.wem</Path>
+					<Path>SFX\AmbLow4_53CEE377.wem</Path>
 				</File>
 				<File Id="740156813" Language="SFX">
 					<ShortName>Door_latch_3.wav</ShortName>
-					<Path>SFX\Door_latch_3_9E69E797.wem</Path>
+					<Path>SFX\Door_latch_3_53CEE377.wem</Path>
 				</File>
 				<File Id="764110558" Language="SFX">
 					<ShortName>ClacMonstre_Attack02.wav</ShortName>
-					<Path>SFX\ClacMonstre_Attack02_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Attack02_53CEE377.wem</Path>
 				</File>
 				<File Id="768297130" Language="SFX">
 					<ShortName>cloche7.wav</ShortName>
-					<Path>SFX\cloche7_9E69E797.wem</Path>
+					<Path>SFX\cloche7_53CEE377.wem</Path>
 				</File>
 				<File Id="769515044" Language="SFX">
 					<ShortName>Radar_Wave.wav</ShortName>
-					<Path>SFX\Radar_Wave_9E69E797.wem</Path>
+					<Path>SFX\Radar_Wave_53CEE377.wem</Path>
 				</File>
 				<File Id="770092917" Language="SFX">
 					<ShortName>DoorSqueak3.wav</ShortName>
-					<Path>SFX\DoorSqueak3_9E69E797.wem</Path>
+					<Path>SFX\DoorSqueak3_53CEE377.wem</Path>
 				</File>
 				<File Id="791450253" Language="SFX">
 					<ShortName>ClacMonstre_Idle15.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle15_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle15_53CEE377.wem</Path>
 				</File>
 				<File Id="794221497" Language="SFX">
 					<ShortName>Amb1.wav</ShortName>
-					<Path>SFX\Amb1_9E69E797.wem</Path>
+					<Path>SFX\Amb1_53CEE377.wem</Path>
 				</File>
 				<File Id="796719234" Language="SFX">
 					<ShortName>Door_latch_2.wav</ShortName>
-					<Path>SFX\Door_latch_2_9E69E797.wem</Path>
+					<Path>SFX\Door_latch_2_53CEE377.wem</Path>
 				</File>
 				<File Id="800207836" Language="SFX">
 					<ShortName>Find.wav</ShortName>
-					<Path>SFX\Find_9E69E797.wem</Path>
+					<Path>SFX\Find_53CEE377.wem</Path>
 				</File>
 				<File Id="809563980" Language="SFX">
 					<ShortName>Amb6.wav</ShortName>
-					<Path>SFX\Amb6_9E69E797.wem</Path>
+					<Path>SFX\Amb6_53CEE377.wem</Path>
 				</File>
 				<File Id="819768824" Language="SFX">
 					<ShortName>machine5.wav</ShortName>
-					<Path>SFX\machine5_9E69E797.wem</Path>
+					<Path>SFX\machine5_53CEE377.wem</Path>
 				</File>
 				<File Id="821285074" Language="SFX">
 					<ShortName>cloche2.wav</ShortName>
-					<Path>SFX\cloche2_9E69E797.wem</Path>
+					<Path>SFX\cloche2_53CEE377.wem</Path>
 				</File>
 				<File Id="831758960" Language="SFX">
 					<ShortName>Wind_Tuyaux04.wav</ShortName>
-					<Path>SFX\Wind_Tuyaux04_9E69E797.wem</Path>
+					<Path>SFX\Wind_Tuyaux04_53CEE377.wem</Path>
 				</File>
 				<File Id="845277108" Language="SFX">
 					<ShortName>Wind_Howl.wav</ShortName>
-					<Path>SFX\Wind_Howl_4B8CC0C5.wem</Path>
+					<Path>SFX\Wind_Howl_9452F465.wem</Path>
 				</File>
 				<File Id="848768176" Language="SFX">
 					<ShortName>ClacMonstre_Seek02.wav</ShortName>
-					<Path>SFX\ClacMonstre_Seek02_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Seek02_53CEE377.wem</Path>
 				</File>
 				<File Id="879165704" Language="SFX">
 					<ShortName>ClacMonstre_Idle13.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle13_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle13_53CEE377.wem</Path>
 				</File>
 				<File Id="890948085" Language="SFX">
 					<ShortName>ClacMonstre_Idle05.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle05_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle05_53CEE377.wem</Path>
 				</File>
 				<File Id="894451604" Language="SFX">
 					<ShortName>Drips.wav</ShortName>
-					<Path>SFX\Drips_4B8CC0C5.wem</Path>
+					<Path>SFX\Drips_9452F465.wem</Path>
 				</File>
 				<File Id="900396056" Language="SFX">
 					<ShortName>ClacMonstre_Idle02.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle02_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle02_53CEE377.wem</Path>
 				</File>
 				<File Id="910580893" Language="SFX">
 					<ShortName>cloche3.wav</ShortName>
-					<Path>SFX\cloche3_9E69E797.wem</Path>
+					<Path>SFX\cloche3_53CEE377.wem</Path>
 				</File>
 				<File Id="987073916" Language="SFX">
 					<ShortName>ClacMonstre_Idle10.wav</ShortName>
-					<Path>SFX\ClacMonstre_Idle10_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Idle10_53CEE377.wem</Path>
 				</File>
 				<File Id="996883605" Language="SFX">
 					<ShortName>Radar_Bip.wav</ShortName>
-					<Path>SFX\Radar_Bip_9E69E797.wem</Path>
+					<Path>SFX\Radar_Bip_53CEE377.wem</Path>
 				</File>
 				<File Id="1018031233" Language="SFX">
 					<ShortName>Door_latch_1.wav</ShortName>
-					<Path>SFX\Door_latch_1_9E69E797.wem</Path>
+					<Path>SFX\Door_latch_1_53CEE377.wem</Path>
 				</File>
 				<File Id="1024033393" Language="SFX">
 					<ShortName>Amb3.wav</ShortName>
-					<Path>SFX\Amb3_9E69E797.wem</Path>
+					<Path>SFX\Amb3_53CEE377.wem</Path>
 				</File>
 				<File Id="1024160717" Language="SFX">
 					<ShortName>Amb5.wav</ShortName>
-					<Path>SFX\Amb5_9E69E797.wem</Path>
+					<Path>SFX\Amb5_53CEE377.wem</Path>
 				</File>
 				<File Id="1036780817" Language="SFX">
 					<ShortName>machine4.wav</ShortName>
-					<Path>SFX\machine4_9E69E797.wem</Path>
+					<Path>SFX\machine4_53CEE377.wem</Path>
 				</File>
 				<File Id="1052801955" Language="SFX">
 					<ShortName>Door_OpenSqueak_2.wav</ShortName>
-					<Path>SFX\Door_OpenSqueak_2_9E69E797.wem</Path>
+					<Path>SFX\Door_OpenSqueak_2_53CEE377.wem</Path>
 				</File>
 				<File Id="1067962411" Language="SFX">
 					<ShortName>ClacMonstre_Move01.wav</ShortName>
-					<Path>SFX\ClacMonstre_Move01_9E69E797.wem</Path>
+					<Path>SFX\ClacMonstre_Move01_53CEE377.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
